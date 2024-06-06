@@ -29,6 +29,26 @@ Explain how each technology has contributed to the development of client and ser
 ## Q4
 ### Describe the features of "interpreters" and "compilers" and how they are different.
 
+#### Answer
+Before understanding what the key differences are between "interpreters" and compilers", we should understand what they are.
+
+These concepts are both language processors and are used to convert codes written in high-level lanuage into machine language codes, this is basically stating that it interprets lanuage understood by humans and is converted into what the machine understand which is 0's and 1's, however these are translated differently - compiler is translated into machine code before the program runs, whilst interpreter translates into machine code line by line as the code runs.
+
+The key differences involved between interpreters and compilers is; firstly the programming languages, where programs languages that use interpreters are JavaScript, Python, Ruby whereas C, C++, Java use compilers.
+Another major key difference to consider is that it takes a lesser amount of time to analyze the source code using interpreters, though the overall execution is comparatively slower; this is opposite of a compiler where it it would analyze the source code taking a larger amount of time, however it would be comparatively faster than interpreters (Sassi, 2023).
+
+Another difference to note is the types of Interpreters and Compilers there are; interpreters have 4 common types, whereas compilers have 10.
+
+The reasons why these concepts and processors are important is compilers help catch syntax and semantic errors before we run the code, this inturn saves times and prevents crashes; interpreters on the other hand help clarify misunderstandings, interpret expressions and ensure the correct and intended message is accurately transformed and conveyed.
+
+#### Reference
+What Is a Compiler? (Definition, How It Works) | Built In. (n.d.). Builtin.com. Retrieved June 6, 2024, from https://builtin.com/software-engineering-perspectives/compiler#
+
+Do I need an Interpreter? 7 Ways you can benefit from Interpreting Services. (n.d.). Www.globalinterpretingservices.com. https://www.globalinterpretingservices.com/blog/do-i-need-an-interpreter#:~:text=They%20can%20help%20to%20clarify
+
+Sassi, R. B. (2023, April 24). Compiler vs. Interpreter in Programming | Built in. Builtin.com. https://builtin.com/software-engineering-perspectives/compiler-vs-interpreter
+
+
 ## Q5
 ### Identify TWO commonly used programming languages and explain the benefits and drawbacks of each.
 
