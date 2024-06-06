@@ -20,7 +20,7 @@ Explain how each technology has contributed to the development of the internet.
 
 #### Answer
 Packets
-A packet is a small chunk of segments which is from a larger message, these chunks of segments considest of two portions, the header and the payload. Header contains information such as its origin aand destination IP address and the payload refers to the actual data.
+A packet is a small chunk of segments (around 1500 bytes) which is from a larger message, these chunks of segments consist of two portions, the header and the payload. Header contains information such as its origin aand destination IP address and the payload refers to the actual data.
 Once the payload reaches its destination it will recombine.
 
 An analogy of this I found useful is;
@@ -34,7 +34,19 @@ https://www.cloudflare.com/en-au/learning/network-layer/what-is-a-packet/
 A short history of the internet | National Science and Media Museum. (n.d.). Www.scienceandmediamuseum.org.uk. https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet#:~:text=The%20packet%20switching%20method%20is
 
 IP addresses (IPv4 and IPv6)
+Internet Protocol or more commonly known as IP addresses is a unique identification number, which is assigned to all computers, however is not created randomly but through math. 
+Whether it is through a computer, laptop, tablets, toys etc every device with an internet connection will have this IP address associated to it and there are reasons for this with the most common task is to have the IP to identify the host or a network, or identifying the particular location of the device (A Brief Introduction to the World of IP Addresses | Tripwire, n.d.).
 
+The difference between IPv4 and IPv6 is the age and capability of each, the IPv4 is the older of the two and has space up to 4 billion IP addresses, whereas the IPv6 holds space for trillions - ultimately replacing IPv4. This is due to IPv6 addresses being able to have the capacity of 8 sets of 4 character (32 total, letters and numerals) separated by a colon, meanwhile IPv4 is at most 4 sets of 3 (12 numbers only) separated by a period.
+
+The main purpose of IP addresses is to map the web and send data to the right place, without this the internet would not be able to fulful your data requests - you would not even be able to use social media, check your emails or browse the internet without it (What Is an IP Address and How Does It Work?, n.d.)
+
+If you want to find your IP address, you can simply type "What's my IP" into Google and it will display it amongst the top search results.
+
+##### Reference
+A Brief Introduction to the World of IP Addresses | Tripwire. (n.d.). Www.tripwire.com. https://www.tripwire.com/state-of-security/brief-introduction-world-ip-addresses
+
+What Is an IP Address and How Does It Work? (n.d.). What Is an IP Address and How Does It Work? https://www.avg.com/en/signal/what-is-an-ip-address
 
 Routes and routing
 
