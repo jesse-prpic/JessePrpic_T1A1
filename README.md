@@ -3,6 +3,12 @@
 ## Q1
 ### Identify and explain common and important components and concepts of web development markup language
 
+#### Answer
+Lorem Ipsum Lorem Ipsum
+
+##### Reference
+www. lorem ipsum .com
+
 ## Q2
 ### Define the features of the following technologies that are essential in terms of the development of the internet:
 - Packets
