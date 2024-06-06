@@ -4,10 +4,10 @@
 ### Identify and explain common and important components and concepts of web development markup language
 
 #### Answer
-Lorem Ipsum Lorem Ipsum
+
 
 ##### Reference
-www. lorem ipsum .com
+
 
 ## Q2
 ### Define the features of the following technologies that are essential in terms of the development of the internet:
@@ -31,6 +31,26 @@ Explain how each technology has contributed to the development of client and ser
 
 ## Q5
 ### Identify TWO commonly used programming languages and explain the benefits and drawbacks of each.
+
+#### Answer
+In 2022 the latest survey report from Statista highlighted the programming lanugages most preferred by developers. Out of the 700+ lanugages that there are, two of the most common lanuages I will be speaking about today will be;
+- JavaScript: at 65.36% preference, this is a high-level, object-oriented programming lanugage built mostly for apps and follows the ECMAScript protocols.
+- Python: at 48.07% preference amongst developers, this is a high-level and general purpose programming language which includes structured, functional and object-oriented paradigms.
+
+The benefits and drawbacks of each is as follows;
+
+JavaScript is comparatively fast and smmooth allowing you to render with consistent results across all browsers. Due to the ease of the implementation and learning aspect of JavaScript this has also created a large support community.
+Although there are some great benefits with JavaScript, it has drawbacks including; A single error in JavaScript code can stop rendering the entire website, each browser interprets JavaScript differently as well as the code is visibile and accessible to to everyone.
+
+However, although there may be some drawbacks, it still reamins the most popular and demanded programming lanuage with over 40% of recruiters across the globe were seeking to hire.
+
+Python is known to be the best programmming language for any beginners that are starting in the Software Development space, this is because of its simple and easy syntax. Other reasons developers may to choose Python, is due to how it is easily readable and faciliates dynamic coding, however the main benefit when it comes to python is how it follows a step-by-step debugging process - what this means is that the execution stops as soon as an error occurs, not allowing this to pass to the console. Though this is a great benefit, Python may not be able to challenge the developers in a way that will positively impact their skills due to Python being more intuitive than most other lanugages. Those that do use Python experience it being slower than other lanuages like C or C++ and experience testing to be complex and tedious with its Runtime errors.
+
+Similar to JavaScript, Python has its deal of benefits and drawbacks, however it still has a 38% demand amongst recruiters through the top software development companies world wide.
+
+##### Reference
+Chavda, S. (2023, January 17). The pro’s and con’s of different programming languages and frameworks. Whitelotus Corporation. https://www.whitelotuscorporation.com/pros-and-cons-of-different-programming-languages-and-frameworks/
+
 
 ## Q6
 ### A hypothetical client has sent you an email (shown in the Q6 Email section), asking for you to build them a website. Write an appropriate, professional email response that shows your understanding of the client’s needs for the website, as well as an understanding of appropriate technologies or tools needed to build the website yourself.	
