@@ -49,7 +49,16 @@ A Brief Introduction to the World of IP Addresses | Tripwire. (n.d.). Www.tripwi
 What Is an IP Address and How Does It Work? (n.d.). What Is an IP Address and How Does It Work? https://www.avg.com/en/signal/what-is-an-ip-address
 
 Routes and routing
+So far we have spoken about Packets or packet-switching and Internet Protocols (IP's), these are both needing to be used when we are talking about routes and routing. When packet-switching, routing selects the parths for IP packts to travel from their origin to the destination - these decisions are made through specialisd pieces of network hardware called routers (cloudflare.com, n.d).
 
+The importance of this comes does the efficiency and how this impacts the network communication, without routing network communications you will find yourself with network failures, website pages not loading and sever crashed as it can't handle the large number of users (AWS, 2023) - ever tried to get on ticketek to get Taylor Swift tickets, this is a result of an overloaded network.
+
+The way that this technology has evolved over the decades since its innovation is due to the creation of cloud infrastructures, involving computing resources and hardware hosted by third-party cloud providers. By having this cloud infrastructure in place you are connected virtually and the business is able to use this resource to host and run applications, which many organizations now have a hybrid approach when it comes to these networks - both on premises networks with internal hardware and cloud networks (AWS, 2023).
+
+##### Reference
+https://www.cloudflare.com/en-au/learning/network-layer/what-is-routing/
+
+AWS. (2023). What is Routing - Beginner’s Guide to Network Routing - AWS. Amazon Web Services, Inc. https://aws.amazon.com/what-is/routing/
 
 Domains and DNS
 
