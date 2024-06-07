@@ -61,9 +61,13 @@ https://www.cloudflare.com/en-au/learning/network-layer/what-is-routing/
 AWS. (2023). What is Routing - Beginner’s Guide to Network Routing - AWS. Amazon Web Services, Inc. https://aws.amazon.com/what-is/routing/
 
 Domains and DNS
+The Domain Name Systems or more commonly known as DNS is the phonebook of the internet. Domain names such as coderacademy.com.au or facebook.com are an example of this, however do not get this mixed up with URL's which is a string of the website https://coderacademy.edu.au/web-development/bootcamp. DNS uses IP addresses to translate these domain names so browsers can load internet sources.
+As we spoke about regarding IP addresses and the multitude of IP addresses that are possible (trillions), DNS removes the need for humans to memorise IP addresses (Cloudflare, n.d.).
 
+(expand
 
 ##### References
+https://www.cloudflare.com/en-au/learning/dns/glossary/what-is-a-domain-name/
 
 ## Q3
 ### Define and features of the following technologies that are essential in terms of the development of the internet:
@@ -144,6 +148,36 @@ Super Awesome Museum
 ## Q7
 ### Think back to a scenario or situation in your own software development projects or work.
 ### Explain how you would do things differently if you had a chance to go through that scenario again, using an appropriate reflective cycle or reflection technique.
+It is important to reflect on your past, whether that is something you had worked on, experienced or simply how you handled a situations. Although you are unable to change this from the past, you are able to reflect and understand how you would approach this scenario next time if and/or when you are faced with it.
+
+The scenario I am bringing up is from the first project we have done, which was building the website portfolio with HTML/CSS. As mentioned, this was my first project and really my first sense of what coding is; so I had dealt with imposter syndrome and also a sense of not trusting my decision making.
+Due to this, I made multiple changes throughout the project based on the appearance of the website, but the visual and coding aspect and got stuck on this for a long time.
+However, if I were to go over this again I would create a reflection technique from what I could have improved on and what I would keep.
+
+Using the Gibbs Cycle we will go through 5 steps; Description, Feelings, Evaluation, Conclusions and Action (Mind Tools Content Team, 2022).
+
+Step 1: Description - What Happened
+As mentioned, this is due to the project where we built the website portfolio with HTML/CSS having 2 weeks to complete and submit, this project had to have a variety of requirements including media queries for different devices, be visually appealing and also documentation in terms of a README.md file.
+
+Step 2: Feelings - Thought during
+Throughout the project and throughout the course in general, I have had strong feelings of being overwhelmed and also a sense of imposter syndrome - however, I understand that these things are normal when you are trying something new.
+During this time, I was indecisive of my choices throughout the project and changed the course of the project a few times, which ultimately led me to being behind.
+
+Step 3: Evaluation - What approaches worked
+Going into this project, even though overwhelmed and unsre of myself I was able to move forward as I know that I wouldn't be this way if this didn't mean something to me. Yes, these feelings crop up time and time and perhaps even while I am writing this sentence, however my approach was if something fails, understand why and apply what you learnt for the next time.
+After a while of experimenting with new code and concepts like animation, keyframes and media queries it came easier and more enjoyable.
+However, at the end of the day I was unfortunately still behind in my project and missed adding all of the media queries to the project.
+
+Step 4: Conclusions - Whats been collected
+I think in life we get in our heads and feelings surrounding the negative and what we could have done better; however, we should focus on the 9/10 things we did correct and are happy with. I am disappointed that the media queries weren't done in full and how I wanted them, however I am absolutely happy about how I was able to build a working and functioning website after only 3 weeks of going the course.
+If I was faced with the same situation again, I would be focusing on the aspects that are necessary to be done and not focus on how pretty that website needs to be, media queries would be something to work on in the earlier stages of the project.
+
+Step 5: Action - A plan
+There is no point going through a reflective cycle if we do not put in place actions and an action plan moving forward. 
+If I were to do this project again, I would plan from start to finish on what I want the project to be and how this is going to be possible and stick with this as if a client or employer were to ask something a certain way we would deliver it with those requirements.
+
+##### References
+Mind Tools Content Team. (2022). Gibbs Reflective Cycle. Www.mindtools.com; Mind Tools Content Team. https://www.mindtools.com/ano9qiu/gibbs-reflective-cycle
 
 ## Q8
 ### A large part of career growth as an information technology professional happens through networking and workshops, often found at online or in-person events or workshops. 
