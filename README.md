@@ -73,9 +73,28 @@ https://www.cloudflare.com/en-au/learning/dns/glossary/what-is-a-domain-name/
 ### Define and features of the following technologies that are essential in terms of the development of the internet:
 - TCP
 - HTTP and HTTPS
-- web browsers (requests, rendering and developer tools)
+- Web Browsers (requests, rendering and developer tools)
 
 Explain how each technology has contributed to the development of client and server communication over the internet (50 - 150 words for each technology)
+
+#### Answer
+TCP
+Transmission Control Protocol or TCP for short is designed to send packets across the internet, enabling programs and devices to exchange messages over a network - this ensures the successful delivery of data and messages. This method of TCP is one of the most commonly used protocols within digital networks communications and end-to-end data delivery.
+
+TCP and IP's have a similar relationship, where IP addresses send packets of informations and ensures that these arrive at their destination, TCP however is more of the assembler aspect of this relationship where it assembles all of the packets together in the right order as well as asks for missing parts of the message to be resent(cloudflare, n.d).
+
+(expand
+
+##### Reference
+https://www.cloudflare.com/en-au/learning/ddos/glossary/tcp-ip/
+
+HTTP and HTTPS
+
+##### Reference
+
+Web Browsers (requests, rendering and developer tools)
+
+##### Reference
 
 ## Q4
 ### Describe the features of "interpreters" and "compilers" and how they are different.
