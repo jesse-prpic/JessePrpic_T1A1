@@ -89,12 +89,40 @@ TCP and IP's have a similar relationship, where IP addresses send packets of inf
 https://www.cloudflare.com/en-au/learning/ddos/glossary/tcp-ip/
 
 HTTP and HTTPS
+HTTP stands for Hypertext Transfer Protocol and this comes into two forms, HTTP being not secure and HTTPS connections being secure and has a layer of encryption through SSL and TLS, which HTTP sites change to HTTPS once they gain a SSL certification (Chipeta, 2023). 
+
+Cloudflare, n.d. dispicts how HTTP and HTTPS is different in the following example.
+
+When HTTP request is sent from its origin server, it sends a HTTP response;
+
+"GET /hello.txt HTTP/1.1
+User-Agent: curl/7.63.0 libcurl/7.63.0 OpenSSL/1.1.l zlib/1.2.11
+Host: www.example.com
+Accept-Language: en"
+
+With the added encryption of HTTPS, the attacker sees something like 
+
+"t8Fw6T8UV81pQfyhDkhebbz7+oiwldr1j2gHBB3L3RFTRsQCpaSnSBZ78Vme+DpDVJPvZdZUZHpzbbcqmSW1+3xXGsERHg9YDmpYk0VVDiRvw1H5miNieJeJ/FNUjgH0BmVRWII6+T4MnDwmCMZUI/orxP3HGwYCSIvyzS3MpmmSe4iaWKCOHQ=="
+
+(expand
+
+If you are a visual learner and want to understand further, check out https://howhttps.works/why-do-we-need-https/
+
 
 ##### Reference
+https://www.cloudflare.com/en-au/learning/ssl/why-is-http-not-secure/
+
+Chipeta, C. (2023, February 7). What is HTTPS? How it Works and Why It’s So Important | UpGuard. Www.upguard.com. https://www.upguard.com/blog/what-is-https
+
+https://howhttps.works/why-do-we-need-https/
 
 Web Browsers (requests, rendering and developer tools)
+We can all agree that the two things that we want from a functioning website is for the content to be fast to load and smooth to interact with, these are the things that developers strive for to actieve, they do this by understanding how performance can be improved and perceived.
+
+Due to wanting to content from a website to load fast and smooth, developers have two major issues to achieving this and that is latency and how these browsers are single threaded, with the former being the biggest threat as the developers goal to to make the site load as fast as possible or atleast appear like it is loading as fast as possible (Populating the Page: How Browsers Work - Web Performance | MDN, n.d.).
 
 ##### Reference
+Populating the page: how browsers work - Web Performance | MDN. (n.d.). Developer.mozilla.org. https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
 
 ## Q4
 ### Describe the features of "interpreters" and "compilers" and how they are different.
