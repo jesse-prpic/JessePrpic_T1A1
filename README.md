@@ -244,3 +244,23 @@ Mind Tools Content Team. (2022). Gibbs Reflective Cycle. Www.mindtools.com; Mind
 
 ## Q12
 ### Explain multiple roles or job positions that would be found in a medium-sized software development company
+
+Throughout most businesses, you will run into an aray of different people, with different job roles - the main objective is to make your company as diverse as possible.
+
+Amongst this aray of roles, the following are the most noted;
+ - Software Developer
+    - This is a role that involves the front-end and the back-end, the role is primary to solve any emerging technical problems throughout the developmene cycle.
+ - Software Architect
+    - 
+ - Product Owner
+    - At the beginning of creating something new and developing it or even expanding on the development of another product, there will be a product owner who will hold the responsibilty for the vision and evolution of the product.
+    This role balances the need of the business, market trends and they also define and shape business strategy.
+ - Business Analyst
+    - 
+
+    - BA and PO are similar with the key difference being BA is more focused on the projects and bridges the gap between customer and a team, however the PO is more customer-oriented and provides the vision of a product.
+            
+            -(Shashkina, 2022)
+
+##### References
+Shashkina, V. (2022, August 31). Software Development Team Structure: Roles & Responsibilities. ITRex. https://itrexgroup.com/blog/software-development-team-structure/
