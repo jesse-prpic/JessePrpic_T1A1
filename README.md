@@ -4,10 +4,26 @@
 ### Identify and explain common and important components and concepts of web development markup language
 
 #### Answer
+Markup lanuages are fundamental and are the foundation of creating and structuring web pages. HyperText Markup Lanugage or more known as HTML is the most common markup lanuage and is the backbone of web content (Varagouli, 2021).
+
+Other lanuages include; XML, SGML and XHTML but for this portion of the workbook we will only focus on HTML.
+
+Markup lanuage can be complex and can have a lot of moving parts, some of important components and concepts of markup lanuage include; 
+- Elements and Tags;
+    - enclose content and forms elements and start and end tages
+        - This can be defined by eg ('<>')
+- Attributes
+    - Allows you to modify elements behaviour or appearances
+        - This can be defined by eg ('attribute' = 'value')
+- Semantics
+    - Enhances the meaning of the element
+        - Defined by eg ('<article>, <'section>', '<aside>')
+
+These are only just a few of the common and important components with more others that make up the structure of a web page.
 
 
 ##### Reference
-
+Varagouli, E. (2021, October 19). What Each Markup Language Is Used For. Semrush Blog. https://www.semrush.com/blog/markup-language/
 
 ## Q2
 ### Define the features of the following technologies that are essential in terms of the development of the internet:
@@ -234,8 +250,42 @@ Mind Tools Content Team. (2022). Gibbs Reflective Cycle. Www.mindtools.com; Mind
 ## Q9
 ### Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.	
 
+ChatGPT has become widely used amongst; students, professionals, curious minds and has been used as a framework for many people daily life.
+
+In fact, I even asked chatGPT this question to understand what it had to say;
+
+"Language-learning models like ChatGPT significantly benefit written and technical works such as reports and software projects by generating content like text and code snippets, enhancing clarity through improved structure and readability suggestions, efficiently retrieving and summarizing information for research and technical details, supporting translation tasks for multilingual documentation, automating routine writing tasks and report generation, aiding in code review and quality assurance processes, providing interactive support for software usage queries, and facilitating collaboration among team members." (chatGPT, 2024).
+
+Now, I don't know about you - but that was a lot of information all at once and feels like a computer has spat it out.
+
+Although chatGPT bought up some great points; in a report done from January 2024 (Samala, A et al, 2024) explains that the advantages of lanuage-learning tools like chatGPT is the capacity to provide personalized and adaptive learning whilst also having instant feedback and being accessible.
+However, it can be noted that the drawbacks are the emotional intelligence, overreliance on technology and privacy concerns; this also combined with the legal and ethical impacts on where the information is coming from and whether it is factual,
+This will be covered in the next portion of this workbook.
+
+
+##### References
+Samala, Agariadne & Zhai, Xiaoming & Aoki, Kumiko & Bojic, Ljubisa & Zikic, Simona. (2024). An In-Depth Review of ChatGPT’s Pros and Cons for Learning and Teaching in Education. International Journal of Interactive Mobile Technologies (iJIM). 18. 96-117. 10.3991/ijim.v18i02.46509. 
+
 ## Q10
 ### Explain the legal and ethical impacts of the usage of language-learning model technologies (such as ChatGPT) in written and technical works, such as reports and software projects.
+
+As we have touched upon the uses, the benefits and the drawbacks of chatGPT, it is important to understand how this advanced piece of technology is growing in a way that may impact legal and ethical behaviours.
+
+Again, before dicussing this in depth; I wanted to see what chatGPT had to say in terms of what it thinks about how itself has legal and ethical impacts.
+
+chatGPT explains; "The use of language-learning models like ChatGPT in written and technical works presents legal challenges such as intellectual property rights, privacy concerns, liability for errors, and compliance with regulations. Ethical considerations include addressing biases in training data, ensuring transparency in AI use, accountability for AI decisions, managing impacts on employment, and respecting human rights in AI applications". 
+
+Once again, this information removed the human emotional intelligence and the nusances of the question that we are asking.
+
+However, with chatGPT there is no way of understanding where they are referencing the information that they have provided - this leaves the user not able to know whether the information is bias, whether it is spreading misinfomration and how it handles the privacy and data.
+
+Lanugage-learning tools can have their own consequences - both positive and negative. Research that was regarding chatGPT in Higher Education (Hasanein AM, et al, 2023) shows that these tool show 6 positive and 6 negative consequences; "positive being time saving, reduced anxiety, improving lanugage skillsm, self-confidence, punctual submission and non-academic support" (Hasanein AM, et al, 2023).
+However, the negative consequences demonstrate that these tools create an area of concern when it comes to, "overreliance, the loss of academic integrity, lack of quality and accuracy, damaged learning outcomes, potenital bias and deteriorated student skills sets" (Hasanein AM, et al, 2023).
+
+In conclusion, these language learning tool are leading innovation technology, however it needs to be noted that it can come with its own legal and ethical impacts as well as positive and negative consequences.
+
+##### Reference
+Hasanein AM, Sobaih AEE. Drivers and Consequences of ChatGPT Use in Higher Education: Key Stakeholder Perspectives. Eur J Investig Health Psychol Educ. 2023 Nov 9;13(11):2599-2614. doi: 10.3390/ejihpe13110181. PMID: 37998071; PMCID: PMC10670526.
 
 ## Q11
 ### Explain multiple skills from each of the categories below, and how they're useful to a software development workplace
@@ -250,17 +300,22 @@ Throughout most businesses, you will run into an aray of different people, with 
 Amongst this aray of roles, the following are the most noted;
  - Software Developer
     - This is a role that involves the front-end and the back-end, the role is primary to solve any emerging technical problems throughout the developmene cycle.
+
  - Software Architect
-    - 
+    - An architect is an expect-level software engineer who focuses on the software design decisions, this role is needed if you deal with complex requirements of legacy software - a big part of software architect is the decision making behind which services are needed and how integrations should work.
+
  - Product Owner
     - At the beginning of creating something new and developing it or even expanding on the development of another product, there will be a product owner who will hold the responsibilty for the vision and evolution of the product.
     This role balances the need of the business, market trends and they also define and shape business strategy.
+
  - Business Analyst
-    - 
+    - While the PO is the one that balances the need of the business through development of product, Business Analyst are the ones that dive deep into workflows and analyses stakeholder feedback, this inturn enriches a the product development team.
 
     - BA and PO are similar with the key difference being BA is more focused on the projects and bridges the gap between customer and a team, however the PO is more customer-oriented and provides the vision of a product.
             
             -(Shashkina, 2022)
+
+Throughout a software company, there are many other roles both of the engineering side as well as on the commerical and business side, it is important for both of these sides to come together and be homogenous.
 
 ##### References
 Shashkina, V. (2022, August 31). Software Development Team Structure: Roles & Responsibilities. ITRex. https://itrexgroup.com/blog/software-development-team-structure/
