@@ -208,6 +208,35 @@ Director
 
 Super Awesome Museum  
 
+#### Response
+Hello Alex,
+
+I really appreciate your reaching out to me.
+
+My name is Jesse and I will be able to assist you and Super Awesome Museum (SAM), with all your website development needs.
+
+So we can begin, I am wanting to clarify my understanding first and understand what you are needing.
+
+Firstly; Museum's are really cool and we should have SAM displayed on the first page, this will bring the customers to know the facade of the building and will start to draw them into the website.
+
+Secondly; we need to have different pages to know where the customers are going and what information they can collect; 
+    - pages being:
+        - artefacts - for items that were made intentionally and are relatively old
+        - objects - for items that were made wihtout human intervention, more of your natural objects
+        - paraphernalia - those items that are a conduit and needed to be used with certain activies.
+    as well and an 
+        - about page - to know more about the museum and its conception
+        - contact page - this can have the details of how to locate the museum, contact details and even a submission enquiries form.
+
+Lastly and most importantly, to make sure that SAM is visable and marketable, it is important that we have a logo - if you do not have one of these yet we are also able to help and assist with this.
+
+Please let me know your thoughts in regards to this, if you have any questions, concerns or issues please reach out and we can smooth those out.
+
+Kind regards,
+
+Jesse
+Web Developer
+
 ## Q7
 ### Think back to a scenario or situation in your own software development projects or work.
 ### Explain how you would do things differently if you had a chance to go through that scenario again, using an appropriate reflective cycle or reflection technique.
