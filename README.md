@@ -240,6 +240,8 @@ Web Developer
 ## Q7
 ### Think back to a scenario or situation in your own software development projects or work.
 ### Explain how you would do things differently if you had a chance to go through that scenario again, using an appropriate reflective cycle or reflection technique.
+
+#### Answer
 It is important to reflect on your past, whether that is something you had worked on, experienced or simply how you handled a situations. Although you are unable to change this from the past, you are able to reflect and understand how you would approach this scenario next time if and/or when you are faced with it.
 
 The scenario I am bringing up is from the first project we have done, which was building the website portfolio with HTML/CSS. As mentioned, this was my first project and really my first sense of what coding is; so I had dealt with imposter syndrome and also a sense of not trusting my decision making.
@@ -279,6 +281,7 @@ Mind Tools Content Team. (2022). Gibbs Reflective Cycle. Www.mindtools.com; Mind
 ## Q9
 ### Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.	
 
+#### Answer
 ChatGPT has become widely used amongst; students, professionals, curious minds and has been used as a framework for many people daily life.
 
 In fact, I even asked chatGPT this question to understand what it had to say;
@@ -298,6 +301,7 @@ Samala, Agariadne & Zhai, Xiaoming & Aoki, Kumiko & Bojic, Ljubisa & Zikic, Simo
 ## Q10
 ### Explain the legal and ethical impacts of the usage of language-learning model technologies (such as ChatGPT) in written and technical works, such as reports and software projects.
 
+#### Answer 
 As we have touched upon the uses, the benefits and the drawbacks of chatGPT, it is important to understand how this advanced piece of technology is growing in a way that may impact legal and ethical behaviours.
 
 Again, before dicussing this in depth; I wanted to see what chatGPT had to say in terms of what it thinks about how itself has legal and ethical impacts.
@@ -321,9 +325,23 @@ Hasanein AM, Sobaih AEE. Drivers and Consequences of ChatGPT Use in Higher Educa
 - soft skills
 - hard skills
 
+#### Answer
+It is important that someone coming into the software development workplace have a well rounded sense of skills, these being both soft and hard skills.
+
+When we are talking about soft skills; these are more of your interpersonal skills that are defined by communication, patience, emotional intelligence and how you work in a team. These skills are also associated to ones personality which can be those who are more extroverted (10 Soft Skills Every Software Engineer Should Have - Trio, 2022).
+
+With softskills being your interpersonal skills, hard skills refer to the more technical side of your skills. Hard skills throughout a software development workplace would be testing and debugging, mobile development, cloud computing and security (Eilers, 2021).
+
+##### Reference
+10 Soft Skills Every Software Engineer Should Have - Trio. (2022, January 6). Trio.dev. https://trio.dev/software-engineer-soft-skills/
+
+Eilers, C. (2021, March 4). 10 Hard and Soft Skills to Put On a Resume for Software Developer Jobs. Arc Talent Career Blog. https://arc.dev/talent-blog/skills-to-put-on-a-resume/
+
+
 ## Q12
 ### Explain multiple roles or job positions that would be found in a medium-sized software development company
 
+#### Answer
 Throughout most businesses, you will run into an aray of different people, with different job roles - the main objective is to make your company as diverse as possible.
 
 Amongst this aray of roles, the following are the most noted;
