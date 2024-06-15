@@ -278,6 +278,17 @@ Mind Tools Content Team. (2022). Gibbs Reflective Cycle. Www.mindtools.com; Mind
 
 ### Create an action plan that identifies several relevant networking opportunities for you to participate in or attend, and add some information about what you expect to gain or grow through each item in the action plan.
 
+#### Answer
+Career growth is something that can be inheritely connected through multiple ways; this could be something that you may be working towards in your current job, or you may be looking for other work and studying to accomplish that career switch; either way it is important to create successful and dynamic relations and not burning bridges.
+
+Keeping current connections and rapport with people is a great way to move across different paths; however we can always create these new connections and build our network.
+When building new networks, there are a few things that are important; to be yourself and to have an open mind to any opportunity - to build these opportunitys I would recommend the following strategies;
+    - Attend industry events to meet professionals
+    - Join tech origanizations and use social media like linkedin and facebook for connections
+    - Improve your skills by going to events like competitions and hackatons as your will learn something new and meet potential employers.
+
+There are plenty of other ways to get your foot in the door using new and old connections through networking; it just depends on what you're going to do with it once your foot is there.
+
 ## Q9
 ### Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.	
 
