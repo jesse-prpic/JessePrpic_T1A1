@@ -1,12 +1,9 @@
 # Jesse Prpic Term 1 Assignment 1 - Workbook
 
 
-## Q1
-### Identify and explain common and important components and concepts of web development markup language
-
 
 #### Answer
-Markup languages are fundamental and are the foundation of creating and structuring web pages. HyperText Markup Language or more known as HTML is the most common markup language and is the backbone of web content (Varagouli, 2021).
+Markup languages are fundamental and the foundation of creating and structuring web pages. HyperText Markup Language or more known as HTML is the most common markup language and is the backbone of web content (Varagouli, 2021).
 
 
 Other languages include; XML, SGML and XHTML but for this portion of the workbook we will only focus on HTML.
@@ -32,19 +29,11 @@ Varagouli, E. (2021, October 19). What Each Markup Language Is Used For. Semrush
 
 
 ## Q2
-### Define the features of the following technologies that are essential in terms of the development of the internet:
-- Packets
-- IP addresses (IPv4 and IPv6)
-- routes and routing
-- domains and DNS
-
-
-Explain how each technology has contributed to the development of the internet.
 
 
 #### Answer
 Packets:
-A packet is a small chunk of segments (around 1500 bytes) which is from a larger message, these chunks of segments consist of two portions, the header and the payload. Header contains information such as its origin and destination IP address and the payload refers to the actual data.
+A packet is a small chunk of segments (around 1500 bytes) which is from a larger message consisting of two potions, the header and the payload. The header contains the information such as its origin and destination IP address and the payload refers to the actual data.
 Once the payload reaches its destination it will recombine.
 
 
@@ -67,10 +56,10 @@ Internet Protocol or more commonly known as IP addresses is a unique identificat
 Whether it is through a computer, laptop, tablets, toys etc every device with an internet connection will have this IP address associated to it and there are reasons for this with the most common task is to have the IP to identify the host or a network, or identifying the particular location of the device (A Brief Introduction to the World of IP Addresses | Tripwire, n.d.).
 
 
-The difference between IPv4 and IPv6 is the age and capability of each, the IPv4 is the older of the two and has space up to 4 billion IP addresses, whereas the IPv6 holds space for trillions - ultimately replacing IPv4. This is due to IPv6 addresses being able to have the capacity of 8 sets of 4 characters (32 total, letters and numerals) separated by a colon, meanwhile IPv4 is at most 4 sets of 3 (12 numbers only) separated by a period.
+The difference between IPv4 and IPv6 is the age and capability of each. The IPv4 is the older of the two and has space up to 4 billion IP addresses, whereas the IPv6 holds space for trillions - ultimately replacing IPv4. By IPv6 having the address capacity of 8 sets of 4 characters (32 total, letters and numerals) separated by a colon, meanwhile IPv4 is at most 4 sets of 3 (12 numbers only) separated by a period.
 
 
-The main purpose of IP addresses is to map the web and send data to the right place, without this the internet would not be able to fulfil your data requests - you would not even be able to use social media, check your emails or browse the internet without it (What Is an IP Address and How Does It Work?, n.d.)
+The main purpose of IP addresses is being able to map out the web and send data to the right place, without this the internet would not be able to fulfil your data requests - you would not even be able to use social media, check your emails or browse the internet without it (What Is an IP Address and How Does It Work?, n.d.)
 
 
 If you want to find your IP address, you can simply type "What's my IP" into Google and it will display it amongst the top search results.
@@ -110,18 +99,14 @@ https://www.cloudflare.com/en-au/learning/dns/glossary/what-is-a-domain-name/
 
 
 ## Q3
-### Define and features of the following technologies that are essential in terms of the development of the internet:
 - TCP
 - HTTP and HTTPS
 - Web Browsers (requests, rendering and developer tools)
 
 
-Explain how each technology has contributed to the development of client and server communication over the internet (50 - 150 words for each technology)
-
-
 #### Answer
 TCP:
-Transmission Control Protocol or TCP for short is designed to send packets across the internet, enabling programs and devices to exchange messages over a network - this ensures the successful delivery of data and messages. This method of TCP is one of the most commonly used protocols within digital network communications and end-to-end data delivery.
+Transmission Control Protocol or TCP for short is designed to send packets across the internet, enabling message exchanged over the network between programs and devices - this ensures the data and messages a successful delivery. This method of TCP is one of the most commonly used protocols within digital network communications and end-to-end data delivery.
 
 
 TCP and IP's have a similar relationship, where IP addresses send packets of informations and ensures that these arrive at their destination, TCP however is more of the assembler aspect of this relationship where it assembles all of the packets together in the right order as well as asks for missing parts of the message to be resent(cloudflare, n.d).
@@ -147,7 +132,7 @@ Host: www.example.com
 Accept-Language: en"
 
 
-With the added encryption of HTTPS, the attacker sees something like
+With the added encryption of HTTPS, the attacker receives something that displays;
 
 
 "t8Fw6T8UV81pQfyhDkhebbz7+oiwldr1j2gHBB3L3RFTRsQCpaSnSBZ78Vme+DpDVJPvZdZUZHpzbbcqmSW1+3xXGsERHg9YDmpYk0VVDiRvw1H5miNieJeJ/FNUjgH0BmVRWII6+T4MnDwmCMZUI/orxP3HGwYCSIvyzS3MpmmSe4iaWKCOHQ=="
@@ -167,7 +152,7 @@ https://howhttps.works/why-do-we-need-https/
 
 
 Web Browsers (requests, rendering and developer tools):
-We can all agree that the two things that we want from a functioning website is for the content to be fast to load and smooth to interact with, these are the things that developers strive for to achieve and they do this by understanding how performance can be improved and perceived.
+We can all agree that the two things that we want from a functioning website is for the content to be fast to load and smooth to interact with, these are the things that developers strive to achieve and they do this by understanding how performance can be improved and perceived.
 
 
 Due to wanting to content from a website to load fast and smooth, developers have two major issues to achieving this and that is latency and how these browsers are single threaded, with the former being the biggest threat as the developers goal to to make the site load as fast as possible or at least appear like it is loading as fast as possible (Populating the Page: How Browsers Work - Web Performance | MDN, n.d.).
@@ -178,7 +163,6 @@ Populating the page: how browsers work - Web Performance | MDN. (n.d.). Develope
 
 
 ## Q4
-### Describe the features of "interpreters" and "compilers" and how they are different.
 
 
 #### Answer
@@ -209,7 +193,6 @@ Sassi, R. B. (2023, April 24). Compiler vs. Interpreter in Programming | Built i
 
 
 ## Q5
-### Identify TWO commonly used programming languages and explain the benefits and drawbacks of each.
 
 
 #### Answer
@@ -227,8 +210,7 @@ Although there are some great benefits with JavaScript, it has drawbacks includi
 
 However, although there may be some drawbacks, it still remains the most popular and demanded programming language with over 40% of recruiters across the globe seeking to hire.
 
-
-Python is known to be the best programming language for any beginners that are starting in the Software Development space, this is because of its simple and easy syntax. Reasons developers may choose Python, is due to how it is easily readable and facilitates dynamic coding, however the main benefit when it comes to python is how it follows a step-by-step debugging process - what this means is that the execution stops as soon as an error occurs, not allowing this to pass to the console. Though this is a great benefit, Python may not be able to challenge the developers in a way that will positively impact their skills due to Python being more intuitive than most other languages. Those that do use Python experience it being slower than other languages like C or C++ and experience testing to be complex and tedious with its Runtime errors.
+Due to the simple and easy syntax of Python, it is known in the industry to be the best programming lanuage for beginner developers. Developers may choose Python, due to how it is easily readable and facilitates dynamic coding, the main benefit  however is how it follows a step-by-step debugging process - what this means is that the execution stops as soon as an error occurs, not allowing this to pass to the console. Though this is a great benefit, Python may not be able to challenge the developers in a way that will positively impact their skills due to Python being more intuitive than most other languages. Those that do use Python experience it being slower than other languages like C or C++ and experience testing to be complex and tedious with its Runtime errors.
 
 
 Similar to JavaScript, Python has its deal of benefits and drawbacks, however it still has a 38% demand amongst recruiters through the top software development companies world-wide.
@@ -239,35 +221,6 @@ Chavda, S. (2023, January 17). The pro’s and con’s of different programming 
 
 
 ## Q6
-### A hypothetical client has sent you an email (shown in the Q6 Email section), asking for you to build them a website. Write an appropriate, professional email response that shows your understanding of the client’s needs for the website, as well as an understanding of appropriate technologies or tools needed to build the website yourself. 
-
-
-## Hypothetical Client
-Hello there
-
-
-My name is Alex, and I’m the director of the Super Awesome Museum (SAM). We display a variety of interesting artefacts, objects, and paraphernalia about all sorts of things from all over the world.
-
-
-I’m writing to you because the SAM needs a website. The museum is new in the city, we’re fully funded and don’t sell our items but we just need to encourage people to visit the museum.
-
-
-We would need a website that showcases some of our interesting exhibits and items, helps people find their way to the museum, and helps people contact the museum.
-
-
-We don’t know much about this website stuff - does this sound like something that you can do?
-
-
-Looking forward to hearing from you,
-
-
-Alex
-
-
-Director
-
-
-Super Awesome Museum 
 
 
 #### Response
@@ -309,8 +262,7 @@ Web Developer
 
 
 ## Q7
-### Think back to a scenario or situation in your own software development projects or work.
-### Explain how you would do things differently if you had a chance to go through that scenario again, using an appropriate reflective cycle or reflection technique.
+
 
 
 #### Answer
@@ -340,8 +292,8 @@ After a while of experimenting with new code and concepts like animation, keyfra
 However, at the end of the day I was unfortunately still behind in my project and missed adding all of the media queries to the project.
 
 
-Step 4: Conclusions - What's been collected |
-I think in life we get in our heads and feelings surrounding the negative and what we could have done better; however, we should focus on the 9/10 things we did correct and are happy with. I am disappointed that the media queries weren't done in full and how I wanted them, however I am absolutely happy about how I was able to build a working and functioning website after only 3 weeks of going through the course.
+Step 4: Conclusions - What has been collected |
+I think in life we get in our heads and feelings surrounding the negative and what we could have done better; however, we should focus on the 9/10 things we did correct and are happy with. I am disappointed that the media queries weren't done in full and they way I wanted them, however I am absolutely happy about what I was able to build after only 3 weeks of going through the course.
 If I was faced with the same situation again, I would be focusing on the aspects that are necessary to be done and not focus on how pretty that website needs to be, media queries would be something to work on in the earlier stages of the project.
 
 
@@ -355,10 +307,6 @@ Mind Tools Content Team. (2022). Gibbs Reflective Cycle. Www.mindtools.com; Mind
 
 
 ## Q8
-### A large part of career growth as an information technology professional happens through networking and workshops, often found at online or in-person events or workshops.
-
-
-### Create an action plan that identifies several relevant networking opportunities for you to participate in or attend, and add some information about what you expect to gain or grow through each item in the action plan.
 
 
 #### Answer
@@ -376,7 +324,7 @@ There are plenty of other ways to get your foot in the door using new and old co
 
 
 ## Q9
-### Explain the uses of language-learning model technologies (such as ChatGPT) on written and technical works, such as reports and software projects.  
+
 
 
 #### Answer
@@ -389,23 +337,18 @@ In fact, I even asked chatGPT this question to understand what it had to say;
 "Language-learning models like ChatGPT significantly benefit written and technical works such as reports and software projects by generating content like text and code snippets, enhancing clarity through improved structure and readability suggestions, efficiently retrieving and summarising information for research and technical details, supporting translation tasks for multilingual documentation, automating routine writing tasks and report generation, aiding in code review and quality assurance processes, providing interactive support for software usage queries, and facilitating collaboration among team members." (chatGPT, 2024).
 
 
-Now, I don't know about you - but that was a lot of information all at once and feels like a computer has spat it out.
+Now, I don't know about you - but that was a lot of information all at once and feels like a computer spat it out.
 
 
 Although chatGPT brought up some great points; in a report done from January 2024 (Samala, A et al, 2024) explains that the advantages of language-learning tools like chatGPT is the capacity to provide personalised and adaptive learning whilst also having instant feedback and being accessible.
-However, it can be noted that the drawbacks are the emotional intelligence, overreliance on technology and privacy concerns; this also combined with the legal and ethical impacts on where the information is coming from and whether it is factual,
+However, it can be noted that the drawbacks are the emotional intelligence, overreliance of the technology and privacy concerns; this also combined with the legal and ethical impacts on where the information is coming from and whether it is factual,
 This will be covered in the next portion of this workbook.
-
-
-
 
 ##### References
 Samala, Agariadne & Zhai, Xiaoming & Aoki, Kumiko & Bojic, Ljubisa & Zikic, Simona. (2024). An In-Depth Review of ChatGPT’s Pros and Cons for Learning and Teaching in Education. International Journal of Interactive Mobile Technologies (iJIM). 18. 96-117. 10.3991/ijim.v18i02.46509.
 
 
 ## Q10
-### Explain the legal and ethical impacts of the usage of language-learning model technologies (such as ChatGPT) in written and technical works, such as reports and software projects.
-
 
 #### Answer
 As we have touched upon the uses, the benefits and the drawbacks of chatGPT, it is important to understand how this advanced piece of technology is growing in a way that may impact legal and ethical behaviours.
@@ -435,7 +378,7 @@ Hasanein AM, Sobaih AEE. Drivers and Consequences of ChatGPT Use in Higher Educa
 
 
 ## Q11
-### Explain multiple skills from each of the categories below, and how they're useful to a software development workplace
+
 - soft skills
 - hard skills
 
@@ -458,7 +401,6 @@ Eilers, C. (2021, March 4). 10 Hard and Soft Skills to Put On a Resume for Softw
 
 
 ## Q12
-### Explain multiple roles or job positions that would be found in a medium-sized software development company
 
 
 #### Answer
@@ -471,7 +413,7 @@ Amongst this array of roles, the following are the most noted;
 
 
 - Software Architect:
-   - An architect is an expert-level software engineer who focuses on the software design decisions, this role is needed if you deal with complex requirements of legacy software - a big part of software architect is the decision making behind which services are needed and how integrations should work.
+   - An expert-level software engineer who focuses on the software design decisions. This role is needed if you deal with complex requirements of legacy software - a big part of software architect is the decision making behind which services are needed and how integration should work.
 
 
 - Product Owner:
@@ -480,7 +422,7 @@ Amongst this array of roles, the following are the most noted;
 
 
 - Business Analyst:
-   - While the PO is the one that balances the need of the business through development of product, Business Analysts are the ones that dive deep into workflows and analyses stakeholder feedback; this inturn enriches the product development team.
+   - While the PO is the one that balances the need of the business through development of product, Business Analysts are the ones that dive deep into workflows and analyse stakeholder feedback; this inturn enriches the product development team.
 
 
    - BA and PO are similar with the key difference being BA is more focused on the projects and bridges the gap between customer and a team, however the PO is more customer-oriented and provides the vision of a product.
