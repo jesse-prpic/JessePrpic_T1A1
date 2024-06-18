@@ -27,8 +27,6 @@ Markup language can be complex and can have a lot of moving parts, some of impor
 These are only just a few of the common and important components with more others that make up the structure of a web page.
 
 
-
-
 ##### Reference
 Varagouli, E. (2021, October 19). What Each Markup Language Is Used For. Semrush Blog. https://www.semrush.com/blog/markup-language/
 
@@ -107,9 +105,6 @@ The Domain Name Systems or more commonly known as DNS is the phonebook of the in
 As we spoke about IP addresses and the multitude of IP addresses that are possible (trillions), DNS removes the need for humans to memorise IP addresses (Cloudflare, n.d.).
 
 
-(expand
-
-
 ##### References
 https://www.cloudflare.com/en-au/learning/dns/glossary/what-is-a-domain-name/
 
@@ -130,9 +125,6 @@ Transmission Control Protocol or TCP for short is designed to send packets acros
 
 
 TCP and IP's have a similar relationship, where IP addresses send packets of informations and ensures that these arrive at their destination, TCP however is more of the assembler aspect of this relationship where it assembles all of the packets together in the right order as well as asks for missing parts of the message to be resent(cloudflare, n.d).
-
-
-(expand
 
 
 ##### Reference
@@ -161,12 +153,7 @@ With the added encryption of HTTPS, the attacker sees something like
 "t8Fw6T8UV81pQfyhDkhebbz7+oiwldr1j2gHBB3L3RFTRsQCpaSnSBZ78Vme+DpDVJPvZdZUZHpzbbcqmSW1+3xXGsERHg9YDmpYk0VVDiRvw1H5miNieJeJ/FNUjgH0BmVRWII6+T4MnDwmCMZUI/orxP3HGwYCSIvyzS3MpmmSe4iaWKCOHQ=="
 
 
-(expand
-
-
 If you are a visual learner and want to understand further, check out https://howhttps.works/why-do-we-need-https/
-
-
 
 
 ##### Reference
@@ -221,8 +208,6 @@ Do I need an Interpreter? 7 Ways you can benefit from Interpreting Services. (n.
 Sassi, R. B. (2023, April 24). Compiler vs. Interpreter in Programming | Built in. Builtin.com. https://builtin.com/software-engineering-perspectives/compiler-vs-interpreter
 
 
-
-
 ## Q5
 ### Identify TWO commonly used programming languages and explain the benefits and drawbacks of each.
 
@@ -251,8 +236,6 @@ Similar to JavaScript, Python has its deal of benefits and drawbacks, however it
 
 ##### Reference
 Chavda, S. (2023, January 17). The pro’s and con’s of different programming languages and frameworks. Whitelotus Corporation. https://www.whitelotuscorporation.com/pros-and-cons-of-different-programming-languages-and-frameworks/
-
-
 
 
 ## Q6
@@ -473,8 +456,6 @@ With soft skills being your interpersonal skills, hard skills refer to the more 
 
 
 Eilers, C. (2021, March 4). 10 Hard and Soft Skills to Put On a Resume for Software Developer Jobs. Arc Talent Career Blog. https://arc.dev/talent-blog/skills-to-put-on-a-resume/
-
-
 
 
 ## Q12
