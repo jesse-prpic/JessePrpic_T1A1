@@ -12,12 +12,12 @@ Markup languages are fundamental and are the foundation of creating and structur
 Other languages include; XML, SGML and XHTML but for this portion of the workbook we will only focus on HTML.
 
 
-Markup language can be complex and can have a lot of moving parts, some of important components and concepts of markup language include;
+Markup language can be complex and can have a lot of moving parts, some important components and concepts of markup language include;
 - Elements and Tags;
-   - enclose content and forms elements and start and end tags
+   - enclose content and form elements and start and end tags
        - This can be defined by eg ('<>')
 - Attributes
-   - Allows you to modify elements behaviour or appearances
+   - Allows you to modify element behaviour or appearances
        - This can be defined by eg ('attribute' = 'value')
 - Semantics
    - Enhances the meaning of the element
@@ -43,7 +43,7 @@ Explain how each technology has contributed to the development of the internet.
 
 
 #### Answer
-Packets
+Packets:
 A packet is a small chunk of segments (around 1500 bytes) which is from a larger message, these chunks of segments consist of two portions, the header and the payload. Header contains information such as its origin and destination IP address and the payload refers to the actual data.
 Once the payload reaches its destination it will recombine.
 
@@ -62,7 +62,7 @@ https://www.cloudflare.com/en-au/learning/network-layer/what-is-a-packet/
 A short history of the internet | National Science and Media Museum. (n.d.). Www.scienceandmediamuseum.org.uk. https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet#:~:text=The%20packet%20switching%20method%20is
 
 
-IP addresses (IPv4 and IPv6)
+IP addresses (IPv4 and IPv6):
 Internet Protocol or more commonly known as IP addresses is a unique identification number, which is assigned to all computers, however is not created randomly but through maths.
 Whether it is through a computer, laptop, tablets, toys etc every device with an internet connection will have this IP address associated to it and there are reasons for this with the most common task is to have the IP to identify the host or a network, or identifying the particular location of the device (A Brief Introduction to the World of IP Addresses | Tripwire, n.d.).
 
@@ -83,7 +83,7 @@ A Brief Introduction to the World of IP Addresses | Tripwire. (n.d.). Www.tripwi
 What Is an IP Address and How Does It Work? (n.d.). What Is an IP Address and How Does It Work? https://www.avg.com/en/signal/what-is-an-ip-address
 
 
-Routes and routing
+Routes and routing:
 So far we have spoken about Packets or packet-switching and Internet Protocols (IP's), these are both needing to be used when we are talking about routes and routing. When packet-switching, routing selects the parts for IP packets to travel from their origin to the destination - these decisions are made through specialised pieces of network hardware called routers (cloudflare.com, n.d).
 
 
@@ -100,7 +100,7 @@ https://www.cloudflare.com/en-au/learning/network-layer/what-is-routing/
 AWS. (2023). What is Routing - Beginner’s Guide to Network Routing - AWS. Amazon Web Services, Inc. https://aws.amazon.com/what-is/routing/
 
 
-Domains and DNS
+Domains and DNS:
 The Domain Name Systems or more commonly known as DNS is the phonebook of the internet. Domain names such as coderacademy.com.au or facebook.com are an example of this, however do not get this mixed up with URL's which is a string of the website https://coderacademy.edu.au/web-development/bootcamp. DNS uses IP addresses to translate these domain names so browsers can load internet sources.
 As we spoke about IP addresses and the multitude of IP addresses that are possible (trillions), DNS removes the need for humans to memorise IP addresses (Cloudflare, n.d.).
 
@@ -120,8 +120,8 @@ Explain how each technology has contributed to the development of client and ser
 
 
 #### Answer
-TCP
-Transmission Control Protocol or TCP for short is designed to send packets across the internet, enabling programs and devices to exchange messages over a network - this ensures the successful delivery of data and messages. This method of TCP is one of the most commonly used protocols within digital networks communications and end-to-end data delivery.
+TCP:
+Transmission Control Protocol or TCP for short is designed to send packets across the internet, enabling programs and devices to exchange messages over a network - this ensures the successful delivery of data and messages. This method of TCP is one of the most commonly used protocols within digital network communications and end-to-end data delivery.
 
 
 TCP and IP's have a similar relationship, where IP addresses send packets of informations and ensures that these arrive at their destination, TCP however is more of the assembler aspect of this relationship where it assembles all of the packets together in the right order as well as asks for missing parts of the message to be resent(cloudflare, n.d).
@@ -131,7 +131,7 @@ TCP and IP's have a similar relationship, where IP addresses send packets of inf
 https://www.cloudflare.com/en-au/learning/ddos/glossary/tcp-ip/
 
 
-HTTP and HTTPS
+HTTP and HTTPS:
 HTTP stands for Hypertext Transfer Protocol and this comes into two forms, HTTP being not secure and HTTPS connections being secure and has a layer of encryption through SSL and TLS, which HTTP sites change to HTTPS once they gain a SSL certification (Chipeta, 2023).
 
 
@@ -166,8 +166,8 @@ Chipeta, C. (2023, February 7). What is HTTPS? How it Works and Why It’s So Im
 https://howhttps.works/why-do-we-need-https/
 
 
-Web Browsers (requests, rendering and developer tools)
-We can all agree that the two things that we want from a functioning website is for the content to be fast to load and smooth to interact with, these are the things that developers strive for to actieve, they do this by understanding how performance can be improved and perceived.
+Web Browsers (requests, rendering and developer tools):
+We can all agree that the two things that we want from a functioning website is for the content to be fast to load and smooth to interact with, these are the things that developers strive for to achieve and they do this by understanding how performance can be improved and perceived.
 
 
 Due to wanting to content from a website to load fast and smooth, developers have two major issues to achieving this and that is latency and how these browsers are single threaded, with the former being the biggest threat as the developers goal to to make the site load as fast as possible or at least appear like it is loading as fast as possible (Populating the Page: How Browsers Work - Web Performance | MDN, n.d.).
@@ -185,7 +185,7 @@ Populating the page: how browsers work - Web Performance | MDN. (n.d.). Develope
 Before understanding what the key differences are between "interpreters" and compilers", we should understand what they are.
 
 
-These concepts are both language processors and are used to convert codes written in high-level language into machine language codes, this is basically stating that it interprets language understood by humans and is converted into what the machine understand which is 0's and 1's, however these are translated differently - compiler is translated into machine code before the program runs, whilst interpreter translates into machine code line by line as the code runs.
+These concepts are both language processors and are used to convert codes written in high-level language into machine language codes which interprets language understood by humans and is converted into what the machine understand which is 0's and 1's. These two conecpts are translated differently - compiler translated the machine code into the program before it runs, whereas interpreter translates machine code line by line as the code runs.
 
 
 The key differences involved between interpreters and compilers is; firstly the programming languages, where programming languages that use interpreters are JavaScript, Python, Ruby whereas C, C++, Java use compilers.
@@ -228,10 +228,10 @@ Although there are some great benefits with JavaScript, it has drawbacks includi
 However, although there may be some drawbacks, it still remains the most popular and demanded programming language with over 40% of recruiters across the globe seeking to hire.
 
 
-Python is known to be the best programming language for any beginners that are starting in the Software Development space, this is because of its simple and easy syntax. Other reasons developers may to choose Python, is due to how it is easily readable and facilitates dynamic coding, however the main benefit when it comes to python is how it follows a step-by-step debugging process - what this means is that the execution stops as soon as an error occurs, not allowing this to pass to the console. Though this is a great benefit, Python may not be able to challenge the developers in a way that will positively impact their skills due to Python being more intuitive than most other languages. Those that do use Python experience it being slower than other languages like C or C++ and experience testing to be complex and tedious with its Runtime errors.
+Python is known to be the best programming language for any beginners that are starting in the Software Development space, this is because of its simple and easy syntax. Reasons developers may choose Python, is due to how it is easily readable and facilitates dynamic coding, however the main benefit when it comes to python is how it follows a step-by-step debugging process - what this means is that the execution stops as soon as an error occurs, not allowing this to pass to the console. Though this is a great benefit, Python may not be able to challenge the developers in a way that will positively impact their skills due to Python being more intuitive than most other languages. Those that do use Python experience it being slower than other languages like C or C++ and experience testing to be complex and tedious with its Runtime errors.
 
 
-Similar to JavaScript, Python has its deal of benefits and drawbacks, however it still has a 38% demand amongst recruiters through the top software development companies world wide.
+Similar to JavaScript, Python has its deal of benefits and drawbacks, however it still has a 38% demand amongst recruiters through the top software development companies world-wide.
 
 
 ##### Reference
@@ -283,7 +283,7 @@ My name is Jesse and I will be able to assist you and Super Awesome Museum (SAM)
 So we can begin, I am wanting to clarify my understanding first and understand what you are needing.
 
 
-Firstly; Museum's are really cool and we should have SAM displayed on the first page. This will bring the customers to know the facade of the building and will start to draw them into the website.
+Firstly; Museums are really cool and we should have SAM displayed on the first page. This will bring customers to know the facade of the building and will start to draw them into the website.
 
 
 Secondly; we need to have different pages to know where the customers are going and what information they can collect;
@@ -291,7 +291,6 @@ Secondly; we need to have different pages to know where the customers are going 
        - artefacts - for items that were made intentionally and are relatively old
        - objects - for items that were made without human intervention, more of your natural objects
        - paraphernalia - those items that are a conduit and needed to be used with certain activities.
-   as well and an
        - about page - to know more about the museum and its conception
        - contact page - this can have the details of how to locate the museum, contact details and even a submission enquiries form.
 
@@ -326,27 +325,27 @@ However, if I were to go over this again I would create a reflection technique f
 Using the Gibbs Cycle we will go through 5 steps; Description, Feelings, Evaluation, Conclusions and Action (Mind Tools Content Team, 2022).
 
 
-Step 1: Description - What Happened
+Step 1: Description - What Happened |
 As mentioned, this is due to the project where we built the website portfolio with HTML/CSS having 2 weeks to complete and submit, this project had to have a variety of requirements including media queries for different devices, be visually appealing and also documentation in terms of a README.md file.
 
 
-Step 2: Feelings - Thought during
+Step 2: Feelings - Thought during |
 Throughout the project and throughout the course in general, I have had strong feelings of being overwhelmed and also a sense of imposter syndrome - however, I understand that these things are normal when you are trying something new.
 During this time, I was indecisive of my choices throughout the project and changed the course of the project a few times, which ultimately led me to being behind.
 
 
-Step 3: Evaluation - What approaches worked
+Step 3: Evaluation - What approaches worked |
 Going into this project, even though overwhelmed and unsure of myself I was able to move forward as I know that I wouldn't be this way if this didn't mean something to me. Yes, these feelings crop up time and time and perhaps even while I am writing this sentence, however my approach was if something fails, understand why and apply what you learnt for the next time.
 After a while of experimenting with new code and concepts like animation, keyframes and media queries it came easier and more enjoyable.
 However, at the end of the day I was unfortunately still behind in my project and missed adding all of the media queries to the project.
 
 
-Step 4: Conclusions - What's been collected
+Step 4: Conclusions - What's been collected |
 I think in life we get in our heads and feelings surrounding the negative and what we could have done better; however, we should focus on the 9/10 things we did correct and are happy with. I am disappointed that the media queries weren't done in full and how I wanted them, however I am absolutely happy about how I was able to build a working and functioning website after only 3 weeks of going through the course.
 If I was faced with the same situation again, I would be focusing on the aspects that are necessary to be done and not focus on how pretty that website needs to be, media queries would be something to work on in the earlier stages of the project.
 
 
-Step 5: Action - A plan
+Step 5: Action - A plan |
 There is no point going through a reflective cycle if we do not put in place actions and an action plan moving forward.
 If I were to do this project again, I would plan from start to finish on what I want the project to be and how this is going to be possible and stick with this as if a client or employer were to ask something a certain way we would deliver it with those requirements.
 
@@ -363,7 +362,7 @@ Mind Tools Content Team. (2022). Gibbs Reflective Cycle. Www.mindtools.com; Mind
 
 
 #### Answer
-Career growth is something that can be inheritely connected through multiple ways; this could be something that you may be working towards in your current job, or you may be looking for other work and studying to accomplish that career switch; either way it is important to create successful and dynamic relations and not burning bridges.
+Career growth is something that can be inherently connected through multiple ways; this could be something that you may be working towards in your current job, or you may be looking for other work and studying to accomplish that career switch; either way it is important to create successful and dynamic relations and not burning bridges.
 
 
 Keeping current connections and rapport with people is a great way to move across different paths; however we can always create these new connections and build our network.
@@ -467,21 +466,21 @@ Throughout most businesses, you will run into an array of different people, with
 
 
 Amongst this array of roles, the following are the most noted;
-- Software Developer
+- Software Developer:
    - This is a role that involves the front-end and the back-end, the role is primary to solve any emerging technical problems throughout the development cycle.
 
 
-- Software Architect
+- Software Architect:
    - An architect is an expert-level software engineer who focuses on the software design decisions, this role is needed if you deal with complex requirements of legacy software - a big part of software architect is the decision making behind which services are needed and how integrations should work.
 
 
-- Product Owner
+- Product Owner:
    - At the beginning of creating something new and developing it or even expanding on the development of another product, there will be a product owner who will hold the responsibility for the vision and evolution of the product.
    This role balances the need of the business, market trends and they also define and shape business strategy.
 
 
-- Business Analyst
-   - While the PO is the one that balances the need of the business through development of product, Business Analysts are the ones that dive deep into workflows and analyses stakeholder feedback, this inturn enriches a the product development team.
+- Business Analyst:
+   - While the PO is the one that balances the need of the business through development of product, Business Analysts are the ones that dive deep into workflows and analyses stakeholder feedback; this inturn enriches the product development team.
 
 
    - BA and PO are similar with the key difference being BA is more focused on the projects and bridges the gap between customer and a team, however the PO is more customer-oriented and provides the vision of a product.
